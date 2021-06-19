@@ -35,5 +35,8 @@
 * Hashing Utility  
 ```npm i bcrypt```
 * Making Token  
-```npm i jsonwebtoken```  
+```npm i jsonwebtoken``` 
+
+## RandomeKeygen 
+* https://randomkeygen.com/
 

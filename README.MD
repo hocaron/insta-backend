@@ -34,4 +34,6 @@
 ## Library
 * Hashing Utility  
 ```npm i bcrypt```
+* Making Token  
+```npm i jsonwebtoken```  
 

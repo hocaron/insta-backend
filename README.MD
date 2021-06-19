@@ -32,6 +32,6 @@
 - [ ] Change Avatar (Image Upload)
 
 ## Library
-* Hashing Utility
+* Hashing Utility  
 ```npm i bcrypt```
 

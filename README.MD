@@ -14,8 +14,8 @@
 * Prisma  
 ```npm install @prisma/cli -D```  
 ```npx prisma init```  
-```install pgadmin4```
-```migrate : npx prisma migrate dev --preview-feature```  
+```install pgadmin4```  
+```npx prisma migrate dev --preview-feature```  
 ```npx prisma studio```  
 ```npm i graphql-tools```
 * Virtual Environments  
@@ -30,3 +30,8 @@
 - [ ] Follow User
 - [ ] Unfollow User
 - [ ] Change Avatar (Image Upload)
+
+## Library
+* Hashing Utility
+```npm i bcrypt```
+

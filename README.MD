@@ -1,6 +1,6 @@
 # InstaClone
 
-## InstaClone Backend 설치 및 실행
+## 🚀InstaClone Backend 설치 및 실행
 * Apollo Server  
 ```npm i apollo-server graphql```  
 ```npm run dev```
@@ -18,5 +18,15 @@
 ```migrate : npx prisma migrate dev --preview-feature```  
 ```npx prisma studio```  
 ```npm i graphql-tools```
-* Virtual Environments
+* Virtual Environments  
 ```npm i dotenv```  
+
+## User
+
+- [ ] Create Account
+- [ ] See Profile
+- [ ] Login
+- [ ] Edit Profile
+- [ ] Follow User
+- [ ] Unfollow User
+- [ ] Change Avatar (Image Upload)

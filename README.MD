@@ -35,21 +35,12 @@
   `touch babel.config.json`  
   `npm install @babel/node --save-dev`
 * Prisma  
-<<<<<<< Updated upstream
-```npm install @prisma/cli -D```  
-```npx prisma init```  
-```install pgadmin4```  
-```npx prisma migrate dev --preview-feature```  
-```npx prisma studio```  
-```npm i graphql-tools```
-=======
   `npm install @prisma/cli -D`  
   `npx prisma init`  
   `install pgadmin4`  
   `npx prisma migrate dev --preview-feature`  
   `npx prisma studio`  
   `npm i graphql-tools`
->>>>>>> Stashed changes
 * Virtual Environments  
   `npm i dotenv`
 
@@ -64,16 +55,6 @@
 - [ ] Change Avatar (Image Upload)
 
 ## Library
-<<<<<<< Updated upstream
-* Hashing Utility  
-```npm i bcrypt```
-* Making Token  
-```npm i jsonwebtoken``` 
-
-## RandomeKeygen 
-* https://randomkeygen.com/
-
-=======
 
 - Hashing Utility  
   `npm i bcrypt`
@@ -83,4 +64,3 @@
 ## RandomeKeygen
 
 - https://randomkeygen.com/
->>>>>>> Stashed changes

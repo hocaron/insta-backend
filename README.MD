@@ -2,7 +2,6 @@
 
 ## 🚀InstaClone Backend 설치 및 실행
 
-<<<<<<< HEAD
 
 - Apollo Server  
   `npm i apollo-server graphql`  

@@ -63,3 +63,7 @@
 ## RandomeKeygen
 
 - https://randomkeygen.com/
+
+## Altair GraphQL Client
+
+- https://altair.sirmuel.design/

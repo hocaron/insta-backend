@@ -22,27 +22,26 @@
   `npm i graphql-tools`
 - Virtual Environments  
    `npm i dotenv`
-
-* Apollo Server  
+- Apollo Server  
   `npm i apollo-server graphql`  
   `npm run dev`
-* Auto Restart  
+- Auto Restart  
   `npm i nodemon --save-dev`
-* Babel  
+- Babel  
   `npm install --save-dev @babel/core`  
   `npm install @babel/preset-env --save-dev`  
   `touch babel.config.json`  
   `npm install @babel/node --save-dev`
-* Prisma  
+- Prisma  
   `npm install @prisma/cli -D`  
   `npx prisma init`  
   `install pgadmin4`  
   `npx prisma migrate dev --preview-feature`  
   `npx prisma studio`  
   `npm i graphql-tools`
-* Virtual Environments  
+- Virtual Environments  
   `npm i dotenv`
-* Apollo Server with Express.js  
+- Apollo Server with Express.js  
 `npm install apollo-server-express`  
 
 ## User
@@ -51,7 +50,7 @@
 - [x] See Profile
 - [x] Login
 - [x] Edit Profile
-- [ ] Changing Avatart(Image Upload)
+- [x] Changing Avatart(Image Upload)
 - [ ] Follow User
 - [ ] Unfollow User
 - [ ] Change Avatar (Image Upload)

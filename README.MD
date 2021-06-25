@@ -52,8 +52,8 @@
 - [x] Changing Avatart(Image Upload)
 - [x] Follow User
 - [ ] Unfollow User
-- [ ] See Follow User
-- [ ] See Unfollow User
+- [ ] See Follow User and See Unfollow User w/ Pagination
+- [ ] Computed Fields
 - [ ] Search Users
 
 ## Library

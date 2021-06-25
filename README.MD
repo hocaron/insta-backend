@@ -42,6 +42,10 @@
   `npm i graphql-tools`
 * Virtual Environments  
   `npm i dotenv`
+* Apollo Server with Express.js
+`npm install apollo-server-express`
+* Morgan
+`npm install morgan`
 
 ## User
 
@@ -49,6 +53,7 @@
 - [x] See Profile
 - [x] Login
 - [x] Edit Profile
+- [ ] Changing Avatart(Image Upload)
 - [ ] Follow User
 - [ ] Unfollow User
 - [ ] Change Avatar (Image Upload)

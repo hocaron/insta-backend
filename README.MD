@@ -42,7 +42,7 @@
   `npm i graphql-tools`
 * Virtual Environments  
   `npm i dotenv`
-* Apollo Server with Express.js
+* Apollo Server with Express.js  
 `npm install apollo-server-express`  
 
 ## User

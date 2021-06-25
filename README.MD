@@ -16,7 +16,7 @@
 - Prisma  
   `npm install @prisma/cli -D`  
   `npx prisma init`  
-  `install pgadmin4`
+  `install pgadmin4`  
   `migrate : npx prisma migrate dev --preview-feature`  
   `npx prisma studio`  
   `npm i graphql-tools`

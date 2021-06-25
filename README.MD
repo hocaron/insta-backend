@@ -2,7 +2,6 @@
 
 ## 🚀InstaClone Backend 설치 및 실행
 
-
 - Apollo Server  
   `npm i apollo-server graphql`  
   `npm run dev`
@@ -42,7 +41,7 @@
 - Virtual Environments  
   `npm i dotenv`
 - Apollo Server with Express.js  
-`npm install apollo-server-express`  
+  `npm install apollo-server-express`
 
 ## User
 
@@ -51,9 +50,11 @@
 - [x] Login
 - [x] Edit Profile
 - [x] Changing Avatart(Image Upload)
-- [ ] Follow User
+- [x] Follow User
 - [ ] Unfollow User
-- [ ] Change Avatar (Image Upload)
+- [ ] See Follow User
+- [ ] See Unfollow User
+- [ ] Search Users
 
 ## Library
 
@@ -62,8 +63,7 @@
 - Making Token  
   `npm i jsonwebtoken`
 - Morgan  
-`npm install morgan`
-
+  `npm install morgan`
 
 ## RandomeKeygen
 

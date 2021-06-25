@@ -43,9 +43,7 @@
 * Virtual Environments  
   `npm i dotenv`
 * Apollo Server with Express.js
-`npm install apollo-server-express`
-* Morgan
-`npm install morgan`
+`npm install apollo-server-express`  
 
 ## User
 
@@ -64,6 +62,9 @@
   `npm i bcrypt`
 - Making Token  
   `npm i jsonwebtoken`
+- Morgan  
+`npm install morgan`
+
 
 ## RandomeKeygen
 

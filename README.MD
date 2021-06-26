@@ -54,8 +54,25 @@
 - [x] Unfollow User
 - [x] See Followers w/ Pagination
 - [x] See Following w/ Pagination
-- [ ] Computed Fields
-- [ ] Search Users
+- [x] Computed Fields
+- [x] Search Users
+
+## Photos
+
+- [ ] Upload Photo (Parse #)
+- [ ] Like / Unlike Photo
+- [ ] See Photo
+- [ ] Edit Photo
+- [ ] See Photo Likes
+- [ ] See Feed
+- [ ] Search Photos
+- [ ] See Hashtags
+
+## Comments
+
+- [ ] Comment on Photo
+- [ ] Edit Comment
+- [ ] Delete Comment
 
 ## Library
 

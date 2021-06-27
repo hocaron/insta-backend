@@ -60,13 +60,13 @@
 ## Photos
 
 - [ ] Upload Photo (Parse #)
-- [ ] Like / Unlike Photo
 - [ ] See Photo
+- [ ] See Hashtags
+- [ ] Search Photos
+- [ ] Like / Unlike Photo
 - [ ] Edit Photo
 - [ ] See Photo Likes
 - [ ] See Feed
-- [ ] Search Photos
-- [ ] See Hashtags
 
 ## Comments
 

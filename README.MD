@@ -59,9 +59,9 @@
 
 ## Photos
 
-- [ ] Upload Photo (Parse #)
-- [ ] See Photo
-- [ ] See Hashtags
+- [x] Upload Photo (Parse #)
+- [x] See Photo
+- [x] See Hashtags
 - [ ] Search Photos
 - [ ] Like / Unlike Photo
 - [ ] Edit Photo
@@ -83,7 +83,7 @@
 - Morgan  
   `npm install morgan`
 - Prettier-Plugin-Prisma
-`npm i -D prettier-plugin-prisma`
+  `npm i -D prettier-plugin-prisma`
 
 ## RandomeKeygen
 

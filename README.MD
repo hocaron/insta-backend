@@ -82,6 +82,8 @@
   `npm i jsonwebtoken`
 - Morgan  
   `npm install morgan`
+- Prettier-Plugin-Prisma
+`npm i -D prettier-plugin-prisma`
 
 ## RandomeKeygen
 

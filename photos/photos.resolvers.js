@@ -13,6 +13,12 @@ export default {
           },
         },
       }),
+    likeNumber: ({ id }) =>
+      client.like.count({
+        where: {
+          photoId: id,
+        },
+      }),
   },
   Hashtag: {
     photos: async ({ id }, { page }) =>

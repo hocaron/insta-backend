@@ -62,10 +62,10 @@
 - [x] Upload Photo (Parse #)
 - [x] See Photo
 - [x] See Hashtags
-- [ ] Search Photos
-- [ ] Like / Unlike Photo
-- [ ] Edit Photo
-- [ ] See Photo Likes
+- [x] Search Photos
+- [x] Like / Unlike Photo
+- [x] Edit Photo
+- [x] See Photo Likes
 - [ ] See Feed
 
 ## Comments

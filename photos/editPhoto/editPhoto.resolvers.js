@@ -25,7 +25,7 @@ export default {
             error: "You are not allowed edit photo",
           };
         }
-        const photo = await client.photo.update({
+        await client.photo.update({
           where: {
             id,
           },
@@ -37,6 +37,9 @@ export default {
             },
           },
         });
+        return {
+          ok: true,
+        };
       }
     ),
   },

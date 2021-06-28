@@ -96,6 +96,8 @@
   `npm i -D prettier-plugin-prisma`
 - Relation onDelete
   `npm i @paljs/plugins`
+- Aws Sdk
+  `npm i aws-sdk`
 
 ## RandomeKeygen
 

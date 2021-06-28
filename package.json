@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/hoharon/instaclone-backend#readme",
   "dependencies": {
+    "@paljs/plugins": "^3.4.0",
     "@prisma/client": "^2.22.1",
     "apollo-server": "^2.24.0",
     "apollo-server-express": "^2.25.2",

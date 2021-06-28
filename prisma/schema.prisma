@@ -33,11 +33,14 @@ model Photo {
   user      User      @relation(fields: [userId], references: [id])
   file      String
   caption   String?
+  /// @onDelete(SET_NULL)
   hashtags  Hashtag[]
   createdAt DateTime  @default(now())
   updatedAt DateTime  @updatedAt
   userId    Int
+  /// @onDelete(CASCADE)
   likes     Like[]
+  /// @onDelete(CASCADE)
   comments  Comment[]
 }
 

@@ -86,6 +86,8 @@
   `npm install morgan`
 - Prettier-Plugin-Prisma
   `npm i -D prettier-plugin-prisma`
+- Relation onDelete
+  `npm i @paljs/plugins`
 
 ## RandomeKeygen
 

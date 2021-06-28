@@ -4,11 +4,13 @@ import { ApolloServer } from "apollo-server-express";
 import { typeDefs, resolvers } from "./schema";
 import { getUser, protectResolver } from "./users/user.utils";
 import logger from "morgan";
+import { graphqlUploadExpress } from 'graphql-upload';
 
 const PORT = process.env.PORT;
 const apollo = new ApolloServer({
   typeDefs,
   resolvers,
+  uploads: false, 
   context: async ({ req }) => {
     return {
       loggedInUser: await getUser(req.headers.token),
@@ -18,6 +20,7 @@ const apollo = new ApolloServer({
 });
 
 const app = express();
+app.use(graphqlUploadExpress());
 app.use(logger("tiny"));
 apollo.applyMiddleware({ app });
 app.use("/static", express.static("uploads"));

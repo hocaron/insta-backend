@@ -6,3 +6,18 @@ AWS.config.update({
     secretAccessKey: process.env.AWS_SCRET,
   },
 });
+
+export const uploadToS3 = async (file, userId) => {
+  const { filename, createReadStream } = await file.file;
+  const objName = `${userId}-${Date.now()}-${filename}`;
+  const readStream = createReadStream();
+  const { Location } = await new AWS.S3()
+    .upload({
+      Bucket: "instaclonee-upload",
+      Key: objName,
+      ACL: "public-read",
+      Body: readStream,
+    })
+    .promise();
+  return Location;
+};

@@ -68,13 +68,21 @@
 - [x] See Photo Likes
 - [x] See Photo Comments
 - [x] See Feed
-- [ ] Is Mine (Delete Photo)
+- [x] Is Mine (Delete Photo)
 
 ## Comments
 
-- [ ] Comment on Photo
-- [ ] Edit Comment
-- [ ] Delete Comment (Is Mine)
+- [x] Comment on Photo
+- [x] Edit Comment
+- [x] Delete Comment (Is Mine)
+
+## Refactor
+
+- [x] Mutation Responses
+
+## Extras
+
+- [ ] S3 Image Upload
 
 ## Library
 

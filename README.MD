@@ -1,11 +1,12 @@
 # Insta Backend
- 
+
 ## 🚀Insta Backend 설치 및 실행
-~~~ 
+
+```
 npm i
 npm run dev
 npm run studio
-~~~
+```
 
 ## User
 
@@ -98,7 +99,7 @@ npm run studio
   `npm i dotenv`
 - Apollo Server with Express.js  
   `npm install apollo-server-express`
-  
+
 ## Library
 
 - Hashing Utility  

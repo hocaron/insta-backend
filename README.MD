@@ -54,7 +54,7 @@ npm run studio
 - [x] Get Room
 - [x] Send Message (Create Room)
 - [x] See Room
-- [ ] Realtime Messages
+- [x] Realtime Messages
 - [x] Computed Fields
 
 ## 📃Insta Backend

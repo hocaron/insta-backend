@@ -12,6 +12,7 @@ export default gql`
     isMine: Boolean!
     likeNumber: Int!
     comments: Int!
+    isLiked: Boolean!
   }
   type Hashtag {
     id: Int!
@@ -21,7 +22,7 @@ export default gql`
     createdAt: String!
     updatedAt: String!
   }
-  type like {
+  type Like {
     id: Int!
     photo: Photo!
     createdAt: String!
